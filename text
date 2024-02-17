@@ -1,0 +1,38 @@
+
+Terms: 
+
+- Vesrion control
+
+// Interview.Q:
+- git
+- github - gitlab - azure
+
+// Interview.Q:
+why not use main branch only ????
+
+
+- Repository (folder)
+
+- Branch (to add new feature - main) :
+   registration (reg_branch) ----> merge (main)
+   Login (login_branch) ---> merge (main)
+
+- Git clone --repo URL-- : clone the repository 
+
+////////
+
+
+
+
+
+
+to do :
+
+1- Upload our code in github (create repository)
+
+
+
+
+
+
+
