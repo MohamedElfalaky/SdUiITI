@@ -36,4 +36,8 @@ why not use main branch only ????
 
 ---
 
+- git branch (branch name) ----> to create new branch from the current branch
+
+- git chechout (branch name) ----> to move to another branch
+
 ////////
